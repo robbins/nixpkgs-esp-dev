@@ -73,6 +73,8 @@ let
           esp-idf-monitor
           esp-idf-size
           esp-idf-panic-decoder
+          pyclang
+          esp-idf-nvs-partition-gen
 
           freertos_gdb
 
